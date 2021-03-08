@@ -1,0 +1,44 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV",ALPHA FHD
+http://mail.vipmek.com:8800/565656/565656/33593?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV",ALPHA HD
+http://mail.vipmek.com:8800/565656/565656/145?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="Greek TV",ANT1 HD
+http://mail.vipmek.com:8800/565656/565656/17?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/Dd3HM0I.png" group-title="Greek TV",ΕΡΤ 1 HD
+http://mail.vipmek.com:8800/565656/565656/7?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/cpzgu5L.png" group-title="Greek TV",ΕΡΤ 2 SD
+http://mail.vipmek.com:8800/565656/565656/1643?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/GJjfeY8.png" group-title="Greek TV",ΕΡΤ 3 SD
+http://mail.vipmek.com:8800/565656/565656/1644?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/WeJpLhK.png" group-title="Greek TV",ERT WORLD
+http://mail.vipmek.com:8800/565656/565656/1641?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greek TV",ERT Sports HD
+http://fliptv.vip:8011/omer/12345/55529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="Greek TV",EURONEWS
+http://mail.vipmek.com:8800/565656/565656/1652?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/yyp6tS5.png" group-title="Greek TV",MEGA SD
+http://mail.vipmek.com:8800/565656/565656/124?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/xokA84y.png" group-title="Greek TV",SKAI HD
+http://mail.vipmek.com:8800/565656/565656/146?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/STAR.png" group-title="Greek TV",STAR HD
+http://mail.vipmek.com:8800/565656/565656/144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Series Cinema HD
+http://mail.vipmek.com:8800/565656/565656/7918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Action
+http://mail.vipmek.com:8800/565656/565656/7919?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Comedy
+http://mail.vipmek.com:8800/565656/565656/7920?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Drama
+http://mail.vipmek.com:8800/565656/565656/7926?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Greek
+http://mail.vipmek.com:8800/565656/565656/7922?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Greek 80s
+http://mail.vipmek.com:8800/565656/565656/7924?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Greek Old
+http://mail.vipmek.com:8800/565656/565656/7923?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Hits HD
+http://mail.vipmek.com:8800/565656/565656/7917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV",Movies Cinema Thriler
+http://mail.vipmek.com:8800/565656/565656/7921?checkedby:iptvcat.com
