@@ -26,5 +26,5 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV" tvg-name="Greek Cinema",Greek Cinema
 https://vdo.alphaserver.gr:3613/stream/play.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/RwETfPc.jpg" group-title="Greek TV" tvg-name="Banana TV",Banana TV
 https://web.onair-radio.eu/bananachannel/bananachannel/chunklist_w1763323074.m3u8
