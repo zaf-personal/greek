@@ -1,28 +1,28 @@
 #EXTM3U
 #PLAYLIST:GreekIPTV
-#EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV" tvg-name="ALPHA HD",ALPHA HD
+#EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV" tvg-name="ALPHA",ALPHA
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="Greek TV" tvg-name="ANT1 HD",ANT1 HD
+#EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="Greek TV" tvg-name="ANT1",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/ART_Logo-e1542633144322.png/220px-ART_Logo-e1542633144322.png" group-title="Greek TV" tvg-name="ART Tripoli",ART
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/ART_Logo-e1542633144322.png/220px-ART_Logo-e1542633144322.png" group-title="Greek TV" tvg-name="ART TV",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/Dd3HM0I.png" group-title="Greek TV" tvg-name="ΕΡΤ 1 HD",ΕΡΤ 1 HD
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/Dd3HM0I.png" group-title="Greek TV" tvg-name="ΕΡΤ 1",ΕΡΤ 1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/cpzgu5L.png" group-title="Greek TV" tvg-name="ΕΡΤ 2 SD",ΕΡΤ 2 SD
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/cpzgu5L.png" group-title="Greek TV" tvg-name="ΕΡΤ 2",ΕΡΤ 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/GJjfeY8.png" group-title="Greek TV" tvg-name="ΕΡΤ 3 SD",ΕΡΤ 3 SD
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/GJjfeY8.png" group-title="Greek TV" tvg-name="ΕΡΤ 3",ΕΡΤ 3
 https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/WeJpLhK.png" group-title="Greek TV" tvg-name="ERT WORLD",ERT WORLD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greek TV" tvg-name="ERT Sports HD",ERT Sports HD
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greek TV" tvg-name="ERT Sports",ERT Sports
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="Greek TV" tvg-name="EURONEWS",EURONEWS
 https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/yyp6tS5.png" group-title="Greek TV" tvg-name="MEGA HD",MEGA HD
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/yyp6tS5.png" group-title="Greek TV" tvg-name="MEGA",MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/xokA84y.png" group-title="Greek TV" tvg-name="SKAI HD",SKAI HD
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/xokA84y.png" group-title="Greek TV" tvg-name="SKAI",SKAI
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/STAR.png" group-title="Greek TV" tvg-name="STAR HD",STAR HD
+#EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/STAR.png" group-title="Greek TV" tvg-name="STAR",STAR
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV" tvg-name="Greek Cinema",Greek Cinema
 https://vdo.alphaserver.gr:3613/stream/play.m3u8
