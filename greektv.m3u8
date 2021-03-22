@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://greektvapp.github.io/api/epg.xml.gz"
 #PLAYLIST:GreekIPTV
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV" tvg-name="ALPHA",ALPHA
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
