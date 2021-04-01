@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://greektvapp.github.io/api/epg.xml.gz"
+#EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
 #PLAYLIST:GreekIPTV
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV" tvg-name="ALPHA",ALPHA
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
@@ -16,6 +16,10 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greek TV" tvg-name="ERT Sports",ERT Sports
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="Greek TV" tvg-name="EURONEWS",EURONEWS
 https://www.youtube.com/watch?v=-UJlcdni8cM
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/yyp6tS5.png" group-title="Greek TV" tvg-name="MEGA",MEGA
