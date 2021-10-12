@@ -7,13 +7,13 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://tv.10dailythings.com/images/channels/GR/art-tv/normal.png" group-title="Greek TV" tvg-name="ΑΡΤ",ΑΡΤ
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="Greek TV" tvg-name="ΕΡΤ 1",ΕΡΤ 1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="Greek TV" tvg-name="ΕΡΤ 2",ΕΡΤ 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="Greek TV" tvg-name="ΕΡΤ 3",ΕΡΤ 3
-https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/WeJpLhK.png" group-title="Greek TV" tvg-name="ERT WORLD",ERT WORLD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greek TV" tvg-name="ERT Sports",ERT Sports
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
