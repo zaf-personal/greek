@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV" tvg-name="ALPHA",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="Greek TV" tvg-name="ANT1",ANT1
-http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
+https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="Greek TV" tvg-name="OPEN BEYOND",OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://tv.10dailythings.com/images/channels/GR/art-tv/normal.png" group-title="Greek TV" tvg-name="ΑΡΤ",ΑΡΤ
