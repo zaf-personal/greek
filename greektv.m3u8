@@ -4,6 +4,8 @@
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="Greek TV" tvg-name="ANT1",ANT1
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="Greek TV" tvg-name="OPEN BEYOND",OPEN TV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://tv.10dailythings.com/images/channels/GR/art-tv/normal.png" group-title="Greek TV" tvg-name="ΑΡΤ",ΑΡΤ
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="Greek TV" tvg-name="ΕΡΤ 1",ΕΡΤ 1
