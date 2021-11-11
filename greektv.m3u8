@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
 #PLAYLIST:GreekIPTV
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="Greek TV" tvg-name="ALPHA",ALPHA
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="Greek TV" tvg-name="ANT1",ANT1
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://tv.10dailythings.com/images/channels/GR/art-tv/normal.png" group-title="Greek TV" tvg-name="ΑΡΤ",ΑΡΤ
