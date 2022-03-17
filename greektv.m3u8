@@ -9,7 +9,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://tv.10dailythings.com/images/channels/GR/art-tv/normal.png" group-title="Greek TV" tvg-name="ΑΡΤ",ΑΡΤ
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="Greek TV" tvg-name="ΕΡΤ 1",ΕΡΤ 1
-http://toptentv.xyz:8080/3143521311618672/2598854265/9467
+1http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="Greek TV" tvg-name="ΕΡΤ 2",ΕΡΤ 2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="Greek TV" tvg-name="ΕΡΤ 3",ΕΡΤ 3
