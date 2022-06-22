@@ -40,8 +40,8 @@ http://176.9.123.140:1935/1c/stream/master.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" group-title="Greek TV" tvg-logo="https://i.imgur.com/eLlhT4f.png" tvg-name="NETV Toronto",NETV TORONTO HD
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV" tvg-name="Greek Cinema",Greek Cinema
-https://vdo.alphaserver.gr:3613/hybrid/play.m3u8
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="Greek TV" tvg-name="Cinema Time TV",Cinema Time TV
+http://127.0.0.1:88/https://www.twitch.tv/cinematimetv
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/dwF0jlz.png" group-title="Greek TV" tvg-name="Galaxy",Galaxy Gr
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/RwETfPc.jpg" group-title="Greek TV" tvg-name="Banana TV",Banana TV
