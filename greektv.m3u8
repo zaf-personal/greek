@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=-UJlcdni8cM
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/yyp6tS5.png" group-title="Greek TV" tvg-name="MEGA",MEGA
 http://84.242.52.54:8000/play/megagr
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/xokA84y.png" group-title="Greek TV" tvg-name="SKAI",SKAI
-http://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+http://84.242.52.54:8000/play/SKAI
 #EXTINF:-1 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/f/STAR.png" group-title="Greek TV" tvg-name="STAR",STAR
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/KRHTH_TV_-_Crete_Tv.png/640px-KRHTH_TV_-_Crete_Tv.png" group-title="Greek TV" tvg-name="Κρήτη TV" ,KPHTH TV
